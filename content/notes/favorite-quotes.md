@@ -4,7 +4,7 @@ date: "2024-12-28"
 categories: [Contemplations]
 ---
 
-A collection of quotes that I deeply relate to
+{{< admonition >}} A collection of quotes that I deeply relate to {{< /admonition >}}
 
 > A mind at peace is a magnet for miracles.
 
