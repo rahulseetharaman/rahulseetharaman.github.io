@@ -4,7 +4,7 @@ date: "2024-12-29"
 categories: [Contemplations]
 ---
 
-Today I was in Yoga class (today's class was called Slow Flow), which involves holding poses for a longer time. On a particularly lazy Sunday afternoon, this can get very strenous. 
+Today I was in Yoga class (today's class was called Slow Flow), which involves holding poses for a longer time. On a particularly lazy Sunday morning, this can get very strenous. 
 
 I moved to California in Aug 2024, with the first two years spent in grad school at Amherst, MA for my masters. While in Amherst, I used to get lonely a lot, and thorughout my two years, I just couldn't find myself a social group to hang out with. It made me very bitter and angered at the universe and God and what not. Why did I jump to this tangent ? Let me explain.
 
@@ -19,7 +19,7 @@ And later on, a third was added
 
 My loneliness and lack of opportunities to party and socialize actually allowed me to get in touch and spend time with my innermost self, to find out what is it that I really wanted. 2022 was the first time I had moved from the comfort zone of my home and parental care. Being alone with myself allowed me to process my needs, dreams, desires and refine them as time went by - none of which would have happened had I settled into the comfort zone of a social group, fallen into group think and did things just to fit in, while forgetting my dreams and desires. 
 
-Right now, I work as an MLE at Doordash (#1 food delivery company in the US) and work out of Sunnyvale, CA. As I stretch my legs and move through pain staking yoga poses, I am grateful for the pain and the person it has shaped me into. 
+Right now, I work as an MLE at Doordash (#1 food delivery company in the US) and work out of Sunnyvale, CA. As I stretch my legs and move through pain staking yoga poses, I am grateful for the pain and the person life has shaped me into. 
 
 There is a quote I am reminded of from a famous detergent advertisement.
 
