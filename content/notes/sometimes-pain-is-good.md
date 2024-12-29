@@ -24,6 +24,7 @@ Right now, I work as an ML Engineer at Doordash (top food delivery company in th
 There is a quote I am reminded of from a famous detergent advertisement.
 
 >  दाग़ अच्छे हैं 
+
 >  Sometimes, dirt is good
 
 
