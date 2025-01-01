@@ -1,6 +1,6 @@
 baseURL = 'https://rahulseetharaman.github.io/'
 languageCode = 'en-us'
-title = 'Today I Learned'
+title = 'Rahul Seetharaman'
 copyright = 'Rahul Seetharaman'
 enableRobotsTXT = true
 
