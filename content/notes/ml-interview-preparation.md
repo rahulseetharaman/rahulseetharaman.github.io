@@ -84,13 +84,15 @@ https://www.youtube.com/watch?v=dhK8nbtii6I
 
 ### Collaborative Filtering
 
-https://nicolas-hug.com/blog/matrix_facto_1
+A series of articles on Collaborative filtering by [Nicholas Hug](https://nicolas-hug.com/)
 
-[https://nicolas-hug.com/blog/matrix_facto_](https://nicolas-hug.com/blog/matrix_facto_1)2
+[Article 1](https://nicolas-hug.com/blog/matrix_facto_1)
 
-[https://nicolas-hug.com/blog/matrix_facto_](https://nicolas-hug.com/blog/matrix_facto_1)3
+[Article 2](https://nicolas-hug.com/blog/matrix_facto_2)
 
-[https://nicolas-hug.com/blog/matrix_facto_](https://nicolas-hug.com/blog/matrix_facto_1)4
+[Article 3](https://nicolas-hug.com/blog/matrix_facto_3)
+
+[Article 4](https://nicolas-hug.com/blog/matrix_facto_4)
 
 
 ### Approximate Nearest Neighbors 
