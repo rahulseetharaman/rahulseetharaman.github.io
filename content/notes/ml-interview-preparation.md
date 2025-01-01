@@ -99,22 +99,16 @@ https://nicolas-hug.com/blog/matrix_facto_1
 
 ## ML Coding notebooks
 
-KNN 
-
 [KNN](https://colab.research.google.com/drive/1DupuQAlENUHEQ4z9PiiBWJGDoDNnepRQ?usp=sharing)
 
-KMeans
 
 [KMeans](https://colab.research.google.com/drive/1bu8sxMEnedJbJMBcZdxzS7OJ5w-ZpuZm?usp=sharing)
 
-Logistic Regression
 
 [Logistic Regression](https://colab.research.google.com/drive/16KZMcp4T98JshlqzY5v885JoxR_DHlZr?usp=sharing)
 
-Linear Regression 
 
 [Linear Regression](https://colab.research.google.com/drive/1wk15SiOVx8w64iTtfB1w9tZxW7eJD2Vl?usp=sharing)
 
-Multi Head Attention 
 
 [Multi Head Attention](https://colab.research.google.com/drive/1g3acncQOC8_bsMXuHn-x3UJKlEEd5FQe?usp=sharing)
