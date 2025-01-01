@@ -1,3 +1,5 @@
+github.com/hugomods/images v0.11.2 h1:d7u3c/ePboeOGx8OI5eUnilpA79YvD7KJjUgqVMR83Y=
+github.com/hugomods/images v0.11.2/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
 github.com/michenriksen/hugo-theme-til v0.0.0-20241027092256-55508b1ffa90 h1:J3zwRG7hNzy4D9s2mUonclrVvODnGD1We+Gikd1anc4=
 github.com/michenriksen/hugo-theme-til v0.0.0-20241027092256-55508b1ffa90/go.mod h1:t9bPWV70WG1Xq6XNR15QJXvLN4XECyFZDBc44ixKg1s=
 github.com/michenriksen/hugo-theme-til v0.0.0-20241027100454-afeb4c6028cb h1:VwwvuwvRvwpeDFO/FAS2V6f5wmaOz+ywkiESGO8hfi0=

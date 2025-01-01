@@ -4,13 +4,11 @@ date: "2025-01-01"
 categories: [interview-prep, machine-learning]
 ---
 
-## Loss Functions
-
-Cross Entropy, MSE, MAE, BCE, their relation to likelihood estimation 
+During my interview preparation days, I have had to revised and re-revised on standard ML interview topics several times, and have found the following resources to be very helpful.
 
 ## Overview of different Optimizers
 
-https://www.ruder.io/optimizing-gradient-descent/
+[Detailed and up-to-date post by Sebastian Ruder on optimizers](https://www.ruder.io/optimizing-gradient-descent/)
 
 [Playlist of 5 min videos on Optimizers](https://www.youtube.com/playlist?list=PLreVlKwe2Z0TIZL8Vyfcdw3gKRlB3evGX)
 
