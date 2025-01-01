@@ -4,7 +4,7 @@ date: "2025-01-01"
 categories: [interview-prep, machine-learning]
 ---
 
-During my interview preparation days, I have had to revised and re-revised on standard ML interview topics several times, and have found the following resources to be very helpful.
+During my interview preparation days, I revised and re-revised on standard ML interview topics several times, and found the following resources to be very helpful.
 
 ## Overview of different Optimizers
 
@@ -52,7 +52,7 @@ https://antoinebrl.github.io/blog/kmeans/
 
 ### SVM
 
-https://www.cs.cornell.edu/courses/cs4780/2017sp/lectures/lecturenote09.html
+[Detailed explanation on SVM from Prof. Kilian Weinberger](https://www.cs.cornell.edu/courses/cs4780/2017sp/lectures/lecturenote09.html)
 
 ### Decision Tree
 
