@@ -12,4 +12,4 @@ categories: [Contemplations]
 
 > My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.
 
-
+> When you feel you hate the world, eat. When you feel the world hates you, sleep. When you feel you hate yourself, shower.
