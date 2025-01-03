@@ -1,7 +1,7 @@
 ---
 title: Some resources for ML interview prep
 date: "2025-01-01"
-categories: [interview-prep, machine-learning]
+categories: [interview-prep]
 ---
 
 During my interview preparation days, I revised and re-revised on standard ML interview topics several times, and found the following resources to be very helpful.
