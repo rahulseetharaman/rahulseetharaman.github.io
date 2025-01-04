@@ -15,3 +15,7 @@ categories: [Contemplations]
 > When you feel you hate the world, eat. When you feel the world hates you, sleep. When you feel you hate yourself, shower.
 
 > Solitude is strength; to depend on the presence of the crowd is weakness. The man who needs a mob to nerve him is much more alone than he imagines.
+
+> Well done is better than well said.
+
+> Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.
