@@ -19,3 +19,5 @@ A collection of quotes that I relate to
 > [!quote] Well done is better than well said.
 
 > [!quote] Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.
+
+> [!quote] Resentment is like drinking poison and hoping that your enemies will die because of it.
