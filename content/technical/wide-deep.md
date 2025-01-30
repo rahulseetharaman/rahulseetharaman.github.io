@@ -57,3 +57,15 @@ y_{F M}=\langle w, x\rangle+\sum_{j_1=1}^d \sum_{j_2=j_1+1}^d\left\langle V_i, V
 $$
 
 The first part of the equation is a linear model, while the second term captures second order, non-linear interactions. While theoretically, a factorization machine can have interactions upto any $n^{th}$ order, the paper sticks to second order, due to computational reasons. Feature interactions are captured with the help of latent vectors $V_i$ and $V_j$ for each feature $i$ and $j$.
+
+The authors also perform some very interesting hyperparameter studies.
+
+1. Activation function - The authors test out ReLU, Tanh, Sigmoid and find ReLU to yield the best results.
+2. Number of layers - The authors observe model performance gains upto 5 layers and observe performance dip afterwards, possibly due to overfitting.
+3. Number of neurons - The authors observe that anywhere between 200 to 400 neurons per layer is a reasonable choice. Beyond this, a risk of overfitting is higher.
+4. Network shapes - The authors test out having constant number of neurons per layer, a pyramid shape (increase then decrease), triangular shape (decrease then increase or vice versa) and find that constant number of neurons per layer yields the best results.
+
+References:
+
+1. [DeepFM paper](https://arxiv.org/pdf/1703.04247)
+2. [Wide and Deep paper](https://arxiv.org/pdf/1606.07792)
