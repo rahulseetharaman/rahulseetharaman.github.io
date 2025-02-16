@@ -12,5 +12,6 @@ I've recently started blogging and intend to write on a variety of technical and
 
 - [[technical|Blogs on everything ML and research]]
 - [[musings|My random musings]]
+- [[books| Books I read]]
 
 If you have any thoughts, questions or you just want to say hi, give me a shout [here](mailto:rahulseetharaman@gmail.com). You can also find me on the Internet on [Github](https://github.com/rahulseetharaman), [LinkedIn](https://www.linkedin.com/in/rahulsee/)or [Twitter](https://x.com/rahulsee98).
