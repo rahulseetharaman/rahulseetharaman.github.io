@@ -20,45 +20,4 @@ A collection of quotes that I relate to
 
 > [!quote] Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.
 
-> [!quote] Always be a little kinder than necessary.
-
-> [!quote] 
-> People are illogical, unreasonable, and self-centered.
->
-> <strong> Love them anyway </strong>.
->
-> If you do good, people will accuse you of selfish ulterior motives.
->
-> <strong> Do good anyway. </strong>
->
-> If you are successful, you will win false friends and true enemies.
->
-> <strong> Succeed anyway. </strong>
->
-> The good you do today will be forgotten tomorrow.
-> 
-> <strong> Do good anyway. </strong>
->
-> Honesty and frankness make you vulnerable.
->
-> <strong> Be honest and frank anyway. </strong>
->
-> The biggest men and women with the biggest ideas can be shot down by the smallest men and women with the smallest minds.
->
-> <strong> Think big anyway. </strong>
->
-> People favor underdogs but follow only top dogs.
->
-> <strong> Fight for a few underdogs anyway. </strong>
->
-> What you spend years building may be destroyed overnight.
->
-> <strong> Build anyway. </strong>
->
-> People really need help but may attack you if you do help them.
->
-> <strong> Help people anyway. </strong>
->
-> Give the world the best you have and you'll get kicked in the teeth.
->
-> <strong> Give the world the best you have anyway. </strong>
+> [!quote] Resentment is like drinking poison and hoping that your enemies will die because of it.
