@@ -51,7 +51,7 @@ Some of the interview loops are still fresh in my head. I remember giving 5 inte
 
 I cleared the TikTok ML interview. But before that, in what was a series of events, I thought I had flunked the TikTok interview and by that point had gotten so frustrated with Amherst and the loneliness there I decided to pack my bags and leave for North Carolina. In a series of twists and turns, <em>I got an offer from TikTok. </em> In this job search process, I was also in touch with a director of ML from Doordash, who was impressed with my profile. 
 
-I was set to leave for a flight to Charlotte, NC on 14th of July. An email comes on 13th of July
+I was set to leave for a flight to Charlotte, NC on 14th of July. An email comes on 13th of July.
 
 <em> Doordash wanted to offer me an MLE role. </em> 
 
