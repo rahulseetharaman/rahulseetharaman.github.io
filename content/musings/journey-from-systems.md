@@ -49,14 +49,14 @@ However, once again not all was rosy. I was doing my job hunt and was getting re
 Some of the interview loops are still fresh in my head. I remember giving 5 interview rounds for a startup and even a presentation of ML research I did (whatever limited I did I presented) only to get rejected owing to my lack of research experience. There was also the Doordash new grad interview which I thought I aced but after being ghosted for 2 months I got a rejection email. I was gutted but I did also keep getting interview calls (that was the one thing going in mmy favor). I would go days and weeks being upset about the previous rejection but I still had to get up, show up and keep prepping. The cycle of brutal rejections kept going upto June. By that time, my EAD date had started and I ended up joining Lowes as a Data Scientist. One cruel twist - Lowes said they would not sponsor my H-1B :(. I had to keep looking out. But one fine day, things clicked. 
 
 
-I cleared the TikTok ML interview. But before that, in what was a series of events, I thought I had flunked the TikTok interview and by that point had gotten so frustrated with Amherst and the loneliness there I decided to pack my bags and leave for North Carolina. In a series of twists and turns, I got an offer from TikTok. In this job search process, I was also in touch with a director of ML from Doordash, who was impressed with my profile. 
+I cleared the TikTok ML interview. But before that, in what was a series of events, I thought I had flunked the TikTok interview and by that point had gotten so frustrated with Amherst and the loneliness there I decided to pack my bags and leave for North Carolina. In a series of twists and turns, <em>I got an offer from TikTok. </em> In this job search process, I was also in touch with a director of ML from Doordash, who was impressed with my profile. 
 
 I was set to leave for a flight to Charlotte, NC on 14th of July. An email comes on 13th of July
 
-Doordash wanted to offer me an MLE role. 
+<em> Doordash wanted to offer me an MLE role. </em> 
 
 Up until 12th of July, I was contemplating leaving ML, but what happened the following week was surreal. Two MLE offers and that too from big companies. Nonetheless, lugless had taken all my luggage to NC. Added to this, I had asked my Mom to come to NC with me to help me out while I looked for a job. So off I went to NC, with a lease signed. My parents arrived 2 weeks later, I ended up taking the Doordash offer over Tiktok and we all left together for the Bay Area. 
 
-However my journey doesn't end here. Disillusionment with the role at Doordash, getting to work on ML, doing research on the side, a couple of submissions to top AI conferences, some workshop acceptances and arxivs later, I made the switch to the Feed Recommendations team at LinkedIn. But more on that later. Hope you enjoyed the soap opera of a journey that was my grad school !!
+However my journey doesn't end here. Disillusionment with the role at Doordash, getting to work on ML, doing research on the side, a couple of submissions to top AI conferences, some workshop acceptances and arxivs later, I made the switch to the Feed Recommendations team at LinkedIn. But more on that later. 
 
-Cheers!
+Hope you enjoyed the soap opera of a journey that was my grad school !! Cheers!
