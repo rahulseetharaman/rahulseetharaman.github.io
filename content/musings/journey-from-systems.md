@@ -6,7 +6,7 @@ tags: [interview-prep]
 
 My journey from Systems SWE at Microsoft to ML Engineer at LinkedIn has been a long, tumultous one. At Microsoft back in India, I used to work for the Systems and Networking group on low level C++ systems that powered ML infrastructure to train language and vision models. The group consisted of illustrious systems researchers and had some amazing work going on in Systems. The scale and impact was going to be unprecedented. There was only one problem,
 
-I just wasn't liking it and not feeling passionate about it. 
+<em> I just wasn't liking it and not feeling passionate about it. </em>
 
 Now don't get me wrong, the work was very interesting, but deep down I knew what I wanted was Applied ML. I had developed a fascination for ML in my 3rd year in undergrad but didn't have any sense of direction as to how to channelize this passion. Most people around me were hell bent on securing a job and were spending day and night practicing data structures and algorithms on LeetCode, GeeksForGeeks, Hackerrank, etc. and I was no outlier either. I vividly remember Microsoft coming to my college placements only to not take any student initially. Back then Microsoft seemed like a goal so unreachable I wouldn't aspire for it - so when Microsoft Research came calling - the last thing I could say was a no, inspite of the work not being in ML and not really aligned with my interests. 
 
@@ -14,12 +14,12 @@ Added to this - I had zero guidance on how to excel in Applied ML. ML exposure i
 
 I googled up universities, got my LORs and went through the usual grind. I was researching for professors whom I could mention in my SOP and I found out about this profesor called Hamed Zamani. His area of interest was in Information Retrieval. The areas of search, recommendations, etc intrigued me so much that I so badly wanted to go to UMass Amherst and study these things. As luck would have it, I got an admit from UMass Amherst and off I flew from Chennai to Boston, MA. 
 
-Here is where I the real grind and struggle began. 
+<em> Here is where I the real grind and struggle began. </em> 
 
 The university had flooded us with options - systems courses, theory courses, ML courses, etc. There were two variants for some courses - one was a 500 level variant (mostly for masters students) and the other was a 600 level variant (for PhDs but recommended for MS students if you want to build depth). I was torn. There were so many questions running through my mind - I had no idea of what I didn't know - this was a real dicey situation. Should I take the plunge or should I play it safe in my first semester ? How do I ensure bandwidth for managing chores, studying for internships, etc ? These were questions that would continue to test me up until my last semester. 
 
 
-<strong> Semester 1: Testing the waters </strong>
+### Semester 1: Testing the waters
 
 I took Information Retrieval, Distributed Systems, and Software Engineering (mostly a filler course since I had taken two 600-level courses). The workload was a lot easier than I thought and I was mostly cruising. I was however hit hard by loneliness, homesickness and overwhelmed by cooking, cleaning, and what not. There was the intense pressure of finding internships, and added to that my Leetcode game was very rusty and I ended up flunking assessments. I remember flunking a simple leetcode medium Dynamic programming problem - I used to LC Hards a couple months before !
 
@@ -28,19 +28,19 @@ However, the most interesting part was this - in the interviews I was branded as
 As it turns out, my knowledge of core ML concepts was pretty poor too. I realized I didn't know basic things like how a decision tree worked, how SVM works and so on. I had only surface level intuition and knew to use `model.fit` in `sklearn`. This really had to change. I had published papers in ML with just `model.fit` and `model.predict` without knowing how any of it worked under the hood. This was embarasssing and alarming.
 
 
-<strong> Semester 2: Back to ML basics, a failed research attempt </strong>
+### Semester 2: Back to ML basics, a failed research attempt
 
 In semester 2, I took the 500 level variant of the Machine Learning course finally. It was an eye opener and I really felt something unlock in me. It was honestly soul satisfying to implement a decision tree in pure python, write modular enough code that I could make Random Forest out of it. Then we went to Neural Networks where we had to implement everything from scratch. Developing a fully customizable end to end DNN with pluggable layers, activations, losses was the highlight. I learnt so much out of this course. Another course I learnt a lot was NLP. Taught by Mohit Iyyer, every lecture turned out to be an eye opener. During the start of the second semester, I was still very much struggling in my intern search however. Luckily, a director at Lowes' Companies (Surya Kallumadi) spotted my interest and saw some potential in me. As it would turn out, an internship at Lowes would be a game changer in my journey - I didn't do anything path breaking at Lowes (I worked on Hybrid search and an engineering heavy project) but it gave me something very important - a tag of Data/Applied Scientist intern which I could put in my CV.
 
 However, not all was rosy. I had signed up for the Alexa Prize, a coveted competition sponsored by Amazon. UMass was one of the teams selected to participate and I was part of the UMass team (thanks to my overzealous nature of pinging a PhD student on twitter and crashing into the IR professor's office hours in first semester). That tenure was a complete disaster however. The loneliness from first semester was amplified in the second. Added to that, it was the first time I was facing a terrible winter at Amherst. I had not gone home during the winter break and I felt burned out. I also took an independent research project under the IR professor which added to my worries. The PhD student who was leading the Alexa Prize was tasked to work with me and he provided practically zero guidance owing to lack of bandwidth. My independent study project was at a complete standstill, my aspirations of publishing a paper down the drain and to top this - this was the worst semester for me health wise. I had a health problem that got so acute I had to book tickets to India for the spring break. I lost momentum and lost all credibility with the professor and the PhD student. 
 
-<strong> Semester 3: Attempts at redemption </strong>
+### Semester 3: Attempts at redemption
 
 My internship was relatively successful, I had another trip to India and I came back somewhat energized but my loneliness and inability to make friends still a problem. I was lucky to have good roommates during my third and fourth semester however. And this time, I was very hesitant to take on extra assignments like the Alexa Prize. I stuck to the coursework and worked super hard on two courses - Reinforcement Learning, Deep Learning and another filler course was called Business Analytics. Lowes Inc by then extended me a return offer. However I was not super happy with the package and was frankly envious of the interns who were in the Bay Area, while I considered myself inferior since I interned in North Carolina (I know, stupid)
 
 The good part was the course work and I was back to getting all As. I enjoyed implementing RL algos from scratch - this was the same professor who taught the ML course and by then I really started enjoying his teaching style and pedagogy. However, the hunt for a full time role began. At the same time, I realized many other students had also had research projects in the second semester and had published papers even ! I was so guilt ridden and promised myself I would attempt a redemption arc. I tried to collaborate informally with a Phd student in Computational Social Science and was once again unsuccessful (partly) - The core issue was I was following her directions while she expected me to come up with ideas and initiative of my own. This blunder changed my mindset - one of the core tenet of being a good AI researcher is to fail fast and have a bias for action and implementation.
 
-<strong> Semester 4: A long struggle and a sweet victory (finally) </strong>
+### Semester 4: A long struggle and a sweet victory (finally)
 
 I had another shot at redemption this time around - there was an industry capstone research project and several companies were there to hand out projects. I got allotted a group by Microsoft. We worked on a very niche topic at the intersection of Retrieval Augmented Generation, LLMs and Mechanistic Interpretability. The project was basically a series of me taking initiatives and doing experiment after another (most of them failures nonetheless). There was a point in April (the course ended in May btw) where we felt completely lost. However we started putting stuff in the paper and one day during the EMNLP deadline it clicked. We ended up completing the paper and put it on Arxiv. It blew up in the community and was even mentioned in DAIR AI's top ML papers of the week !
 
