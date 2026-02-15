@@ -1,5 +1,5 @@
 ---
-title: A systems engineer's grad school journey and becoming an ML Engineer
+title: My grad school and ML journey
 date: "2026-02-13"
 tags: [interview-prep]
 ---
