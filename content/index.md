@@ -6,7 +6,7 @@ Hi, I'm Rahul, a Machine Learning Engineer at LinkedIn. I live in Sunnyvale, CA.
 
 ![[rahul.jpeg|400x500]]
 
-When I am not doing ML stuff, you can find me doing at the gym, reading novels or just taking a walk with Spotify on. I am also an avid cricket/soccer fan, and a huge supporter of Chennai Super Kings and Manchester United.
+When I am not doing ML stuff, you can find me working out, reading novels or just taking a walk with Spotify on. I am also an avid cricket/soccer fan, and a huge supporter of Chennai Super Kings and Manchester United.
 
 I've recently started blogging and intend to write on a variety of technical and non-technical stuff.
 
